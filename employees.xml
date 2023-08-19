@@ -1,0 +1,54 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+
+<employees>
+    <employee>
+        <employeeID>12346</employeeID>
+        <personalInfo>
+            <firstName>Pranav</firstName>
+            <lastName>Pravi</lastName>
+            <Dob>2008-08-12</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Manager</position>
+            <salary>200000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>pranavpravi2002@gmail.com</email>
+            <phoneNumber>9875432436</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <personalInfo>
+            <firstName>Virat</firstName>
+            <lastName>Kholi</lastName>
+            <Dob>1995-02-12</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>Senior Analyst</position>
+            <salary>2000000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>viratkholi@gmail.com</email>
+            <phoneNumber>9975432437</phoneNumber>
+        </contactInfo>
+    </employee>
+    <employee>
+        <employeeID>12345</employeeID>
+        <personalInfo>
+            <firstName>Rekha</firstName>
+            <lastName>K</lastName>
+            <Dob>1996-07-25</Dob>
+            <gender>Male</gender>
+        </personalInfo>
+        <EmployeeInfo>
+            <position>HR Manager</position>
+            <salary>500000</salary>
+        </EmployeeInfo>
+        <contactInfo>
+            <email>rekha@gmail.com</email>
+            <phoneNumber>988875432437</phoneNumber>
+        </contactInfo>
+    </employee>
+</employees>
